@@ -1,0 +1,5 @@
+Bima,11112,1
+Andi,11119,1
+Rahma,11131,3
+Name,NIM,Semester
+Zeno,11198,9
